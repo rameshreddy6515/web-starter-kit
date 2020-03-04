@@ -24,7 +24,7 @@ node_modules/
 
 # linux backup files
 *~
-
+Newfile.txt
 # markup
 /build/
 /assets/
@@ -43,3 +43,4 @@ tmp
 
 #npm dependencies
 package-lock.json
+Newfile.txt
